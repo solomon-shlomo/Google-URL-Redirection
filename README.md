@@ -34,7 +34,7 @@ There is no REDITECT NOTICE and therefore before clicking the URL, users belive 
 
 https://www.google.com/url?sa=t&url=http://icsirt.com/&usg=AOvVaw2AcGMUccRudpmqkjcvluYq  ====>  Redirected to http://icsirt.com/
 
-GOOGLE SAYS THE REDIRECT NOTICE IS NOT A SECURITY FEATURE AND BY ADDING THE "USG" PARAMETER google KNOWS THE URL IS INDEXED AND WILL BLOCK IT IF IT'S MALICIOUS. Malware writers often use obfuscation to make their files more difficult to detect or analyze. Also Fileless malware has attracted a lot of attention recently and security solutions are having difficulty in defending against it. Hope GOOGLE can block all new 0Day Malwares and obfuscated phishing pages.
+GOOGLE SAYS THE REDIRECT NOTICE IS NOT A SECURITY FEATURE AND BY ADDING THE "USG" PARAMETER GOOGLE KNOWS THE URL IS INDEXED AND WILL BLOCK IT IF IT'S MALICIOUS. Malware writers often use obfuscation to make their files more difficult to detect or analyze. Also Fileless malware has attracted a lot of attention recently and security solutions are having difficulty in defending against it. Hope GOOGLE can block all new 0Day Malwares and obfuscated phishing pages.
 
 https://in.linkedin.com/in/solomon-jesudasan-66b46367
 
