@@ -14,6 +14,8 @@ After hosting the malicious content, wait for GOOGLE to crawl the malicious cont
 ##### 2. Search the malicious domain on GOOGLE [ icsirt.com ]
 Search the malicious domain on GOOGLE then Right click on the malicious domain listed on the google search then copy the link location of the malicious domain and get the "usg" parameter value. Here the "usg" parameter value for my malicious website is "usg=AOvVaw2AcGMUccRudpmqkjcvluYq"
 
+![screenshot from 2018-09-27 16-00-57](https://user-images.githubusercontent.com/18662912/46133246-068c7880-c20e-11e8-80fe-3b4dd4c6c58b.png)
+
 Link location copied: [https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwiihIaI49rdAhUFTI8KHQrDDBkQFjAAegQICRAB&url=http%3A%2F%2Ficsirt.com%2F&usg=AOvVaw2AcGMUccRudpmqkjcvluYq] Get the usg parameter and value.
 
 ##### 4. Craft the URL with GOOGLE domain.
